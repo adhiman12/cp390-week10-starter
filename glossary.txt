@@ -8,8 +8,7 @@ Import:
 Clone:
   Your definition:
 
-Fork:
-  Your definition:
+Fork: A fork is a copy of someone else's GitHub repository that I can change without affecting the original.
 
 Branch:
   Your definition:
